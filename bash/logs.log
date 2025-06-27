@@ -1,0 +1,30 @@
+=== /var/log/alternatives.log ===
+update-alternatives 2025-06-20 21:17:04: run with --install /usr/share/xsessions/default.desktop default-xsession.desktop /usr/share/xsessions/plasma6.desktop 25
+
+=== /var/log/boot.log ===
+
+
+=== /var/log/pbl.log ===
+
+
+=== /var/log/plymouth-debug.log ===
+
+
+=== /var/log/snapper.log ===
+
+
+=== /var/log/wpa_supplicant.log ===
+
+
+=== /var/log/Xorg.0.log ===
+[ 10219.541] (II) UnloadModule: "libinput"
+
+=== /var/log/Xorg.2.log ===
+[ 41212.015] (II) Server terminated successfully (0). Closing log file.
+
+=== /var/log/Xorg.3.log ===
+[  8154.736] (II) Server terminated successfully (0). Closing log file.
+
+=== /var/log/zypper.log ===
+
+
